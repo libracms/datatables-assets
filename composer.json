@@ -1,7 +1,9 @@
 {
     "name":         "libra/datatables-assets",
     "type":         "library",
-    "description":  "DataTables assets for Libra CMS",
+    "description":  "DataTables assets for web project that use public dir as document root.\n\
+ It nice combines with 'libra/libra-assets-installer'for automatic linking to dir and becomes accesible by\
+ url: base_name/vendor/datatables-assets/*",
     "keywords":     ["libra", "jquery", "assets"],
     "homepage":     "http://www.ejoom.com/libra-cms/",
     "license":      "BSD-3-Clause",
